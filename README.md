@@ -1,5 +1,22 @@
+## Project
+Property Management
+
+## Intruction
+Finding your dream home or the perfect investment has never been easier! At Homelistic, we offer a seamless and transparent platform for buying, selling, and renting real estate. Whether you’re looking for modern apartments, luxury villas, or prime land, we connect you with the best opportunities in the market.
+
+🌟 Why Choose Us?
+✅ A diverse selection of properties across prime locations.
+✅ Safe, transparent, and hassle-free transactions.
+✅ Smart search technology to find your ideal property instantly.
+✅ Expert support and guidance every step of the way.
+
+Let me know if you'd like any modifications! 😊
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Technology & Languages
+- [x] Typescript
+- [x] Javascript
+      
 ## Getting Started
 
 First, run the development server:
