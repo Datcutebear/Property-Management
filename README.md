@@ -2,14 +2,19 @@
 Property Management
 
 ## Intruction
-Finding your dream home or the perfect investment has never been easier! At Homelistic, we offer a seamless and transparent platform for buying, selling, and renting real estate. Whether you’re looking for modern apartments, luxury villas, or prime land, we connect you with the best opportunities in the market.
+Welcome to Homelistic – Your Ultimate Real Estate Platform!
 
-🌟 Why Choose Us?
-✅ A diverse selection of properties across prime locations.
-✅ Safe, transparent, and hassle-free transactions.
-✅ Smart search technology to find your ideal property instantly.
-✅ Expert support and guidance every step of the way.
+Finding your dream home or the perfect investment has never been easier! Homelistic is a cutting-edge real estate platform designed to simplify buying, selling, and renting properties. With our smart technology and transparent processes, we connect you to the best real estate opportunities effortlessly.
 
+🔍 What We Offer
+✅ A vast selection of properties in prime locations.
+✅ Secure, transparent, and hassle-free transactions.
+✅ Advanced search tools for quick and precise results.
+✅ Professional support and expert guidance at every step.
+
+Start your real estate journey with Homelistic today! 🚀
+
+This project is created using TypeScript and necessary website features.
 Let me know if you'd like any modifications! 😊
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
